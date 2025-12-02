@@ -3,8 +3,8 @@ import WorldMap from "@/components/ui/world-map";
 
 export function WorldMapDemo() {
   return (
-    <div className="w-full dark:bg-black bg-white flex items-center justify-center py-10 md:py-20 lg:py-40">
-      <div className="w-full max-w-7xl mx-auto px-4 md:px-8">
+    <div className="w-full h-screen bg-white flex items-center justify-center">
+      <div className="w-full h-full">
         <WorldMap
           dots={[
           {
