@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Project Description
+
+This project hosts a standalone World Map animation component from Aceternity UI, designed to be embedded in the evanriosprojects.com Wix site.
+
+## Components
+
+- **WorldMap**: A customizable world map component that renders animated paths between locations.
+- **WorldMapDemo**: A demo component configured with specific locations (London, India, Australia, New York, California) and styling.
+
 ## Getting Started
 
 First, run the development server:
